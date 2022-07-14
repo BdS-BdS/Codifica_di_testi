@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Trois premières conférences à l'Université</title>
+                <title xml:lang="fr" type="sub">(cours d'ouverture, <date when="1891-11">novembre 1891</date>)</title>
+                <title xml:lang="it" type="sub">Edizione digitale</title>
+                <author ref="#FdS" role="author">Ferdinand de Saussure</author>
+                <respStmt>
+					<resp>Responsabilità di: </resp>
+					<name ref="#BdS">Barbara de Simone</name>
+				</respStmt>
+            </titleStmt>
+
+            <editionStmt>   
+                <edition>Edizione digitale <date when="2022-07">luglio 2022</date></edition>
+
+                <respStmt>
+                    <resp>Trascritto da:</resp>
+                    <persName ref="#SB"> 
+                        <forename>Simon</forename>
+                        <surname>Bouquet</surname>
+                    </persName>
+                    <persName ref="#RE"> 
+                        <forename>Rudolf</forename>
+                        <surname>Engler</surname>
+                    </persName>
+                </respStmt>
+
+                <respStmt>
+                    <resp>Tradotto dal francese all'italiano da:</resp>
+                    <persName> 
+                        <forename ref="#EF">Emanuele</forename>
+                        <surname>Fadda</surname>
+                    </persName>
+                </respStmt>
+
+                <respStmt>
+                    <resp>Codificato in XML da:</resp>
+                    <persName ref="#BdS"> 
+                        <forename>Barbara</forename>
+                        <surname>de Simone</surname>
+                    </persName>
+                </respStmt>            
+            </editionStmt>
+
+            <publicationStmt>
+                <publisher>
+                    <orgName><name type="role">Università</name> di <name type="city">Pisa</name></orgName>
+                </publisher>
+                <availability>
+                    <p>Opera ad accesso libero</p>
+                </availability>
+                <date when="2022">2022</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Svizzera</country>    
+                        <settlement>Ginevra</settlement>
+                        <institution>Biblioteca di Ginevra</institution>
+                        <repository role="library" ref="https://archives.bge-geneve.ch/ark:/17786/vta01d046d929f231ba">Biblioteca di Ginevra</repository>
+                        <collection>Archivi Ferdinand de Saussure</collection>
+                        <idno type="inventory">BGE Ms. fr. 3951/1.1-3</idno>
+                    </msIdentifier>
+
+                    <msContents>
+                        <msItem>
+                            <author ref="#FdS">Ferdinand de Saussure</author>
+                            <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                            <title xml:lang="fr" type="sub">1&#x1D49;&#x02B3; cours d'ouverture</title>
+                            <docDate when="1891-11-06">06/11/1891</docDate>
+                            <textLang mainLang="fr">Francese</textLang>
+                        </msItem>
+                        <msItem>
+                            <author ref="#FdS">Ferdinand de Saussure</author>
+                            <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                            <title xml:lang="fr" type="sub">Cours d'ouverture 2</title>
+                            <docDate when="1891-11-10">10/11/1891</docDate>
+                            <textLang mainLang="fr">Francese</textLang>                           
+                        </msItem>
+                        <msItem>
+                            <author ref="#FdS">Ferdinand de Saussure</author>
+                            <title xml:lang="fr" type="main">Trois premières conférences à l'Université</title>
+                            <title xml:lang="fr" type="sub">Cours d'ouverture 3</title>
+                            <docDate when="1891-11-13">13/11/1891</docDate>
+                            <textLang mainLang="fr">Francese</textLang>
+                        </msItem>                   
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="folio">
+                            <supportDesc source="https://archives.bge-geneve.ch/ark:/17786/vtae78f994bf3242bef">
+                                <support>
+                                    <material>Carta a quadretti</material>
+                                </support>
+
+                                <extent>
+                                    <measureGrp unit="page" source="https://archives.bge-geneve.ch/ark:/17786/vtae78f994bf3242bef"> 
+                                        <measure quantity="30">30 pagine +</measure>
+                                        <measure quantity="15">15 pagine +</measure>
+                                        <measure quantity="22">22 pagine</measure>
+                                    </measureGrp>
+                                </extent>
+
+                                <foliation>Le pagine sono numerate a mano in alto a sinistra. Ogni pagina è scritta su un foglio diverso.</foliation>
+
+                                <condition>Le carte sono in buone condizioni.</condition>
+                            </supportDesc>
+                        </objectDesc>
+
+                        <handDesc hands="1">
+                            <handNote xml:id="h1">Il testo è scritto a mano solo da <persName ref="#FdS">Ferdinand de Saussure</persName>.</handNote>
+                        </handDesc>
+                    </physDesc>
+
+                    <history>
+                        <origin notAfter="1891-11">
+                            <p><objectType>Appunti</objectType> scritti per le prime conferenze all’<orgName><name type="role">Università</name> di <name type="city">Ginevra</name></orgName>, in parte utilizzati per le prime lezioni del corso di <foreign xml:lang="fr">Phonétique du grec et du latin</foreign> 1891.</p>
+                        </origin>
+                        <acquisition notBefore="1955" notAfter="1988">
+                            <p>Acquisito dalla <orgName>Biblioteca di Ginevra</orgName> <date notBefore="1955" notAfter="1988">tra il 1955 e il 1988</date>.</p>
+                        </acquisition>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="fr">Francese</language>
+            </langUsage>
+
+            <creation>
+                <date when="1891">1891</date>
+
+                <listChange ordered="true">
+                    <change who="#FdS" status="draft" xml:id="CHG-3" cert="low">Aggiunte scritte a mano da Ferdinand de Saussure successive alla prima stesura.</change>
+                    <change who="#FdS" status="draft" xml:id="CHG-2">Aggiunte e/o cancellature scritte a mano da Ferdinand de Saussure durante la prima stesura.</change>
+                    <change who="#FdS" status="draft" xml:id="CHG-1">Prima stesura, scritta a mano da Ferdinand de Saussure.</change>
+                </listChange>
+            </creation>
+        </profileDesc>
+
+        <encodingDesc>
+            <projectDesc>
+                <p>Il testo è stato codificato per l'esame di Codifica di Testi del corso di laurea in Informatica Umanistica dell'<orgName><name type="role">Università</name> di <name type="city">Pisa</name></orgName>.</p>
+            </projectDesc>
+
+            <editorialDecl>
+                <punctuation marks="some" placement="external">
+                    <p>Alcuni segni di punteggiatura nella trascrizione di Bouquet ed Engler non rispecchiano quelli presenti nel manoscritto. In quei casi, sono state codificate entrambe le versioni all'interno di un <gi scheme="TEI">choice</gi></p>
+                </punctuation>
+
+                <normalization method="markup">
+                    <p>Nel manoscritto sono presenti alcune abbreviazioni che sono state sciolte nella trascrizione di Bouquet ed Engler. In quei casi, sono state codificate entrambe le versioni all'interno di un <gi scheme="TEI">choice</gi></p>
+                </normalization>
+
+                <segmentation>
+                    <ab>
+                        <list>
+                            <head>Pericopi nelle carte 8 e 9 di Prolusioni 3</head>
+
+                            <!--PERICOPE 1-->
+                            <item n="1" corresp="#pericope1">
+                                <seg>
+                                    au moment même où j’ai l’honneur de vous parler, je suis persuadé, je suis à vrai dire absolument certain que, malgré tout ce que je disais, la dénomination de français et latin est infiniment plus forte, restera toujours ou longtemps mille fois plus puissante sur votre esprit que toutes les instances auxquelles je puis me livrer comme linguiste, pour arriver à faire crouler ce dualisme de carton, qui nous obsède, sous le nom de français et latin.
+                                </seg>
+
+                                <desc>
+                                    Ferdinand de Saussure dice che la denominazione francese e latino è talmente forte che lui non è in grado di far crollare tale dualismo.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 2-->
+                            <item n="2" corresp="#pericope2">
+                                <seg>
+                                    Il y aura un jour un livre spécial et très intéressant à écrire sur le rôle du mot comme principal perturbateur de la science des mots.
+                                </seg>
+                                
+                                <desc>
+                                    Ferdinand de Saussure parla di un libro da scrivere sul ruolo della parola.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 3-->
+                            <item n="3" corresp="#pericope3">
+                                <seg>
+                                    L’ensemble des considérations de ce genre se résument pour nous dans le principe universel de l’absolue continuité de la langue dans le temps.
+                                </seg>
+                                
+                                <desc>
+                                    Ferdinand de Saussure parla del principio universale dell’assoluta continuità della lingua nel tempo.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 4-->
+                            <item n="4" corresp="#pericope4">
+                                <seg>
+                                    Avec ce premier principe venait se combiner le second, de la continuelle transformation de la langue dans le temps, dépendant elle-même, je le rappelle, de deux agents distincts, l’un psychologique se concentrant sur l’« opération d’analogie », l’autre mécanique, physiologique, ayant son expression dans les changements phonétiques.
+                                </seg>
+                                
+                                <desc>
+                                    Ferdinand de Saussure parla del principio di continua trasformazione della lingua nel tempo.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 5-->
+                            <item n="5" corresp="#pericope5">
+                                <seg>
+                                   L’un agissant de plus d’une manière parfaitement indépendante de l’autre, si ce n’est dans quelques cas très spéciaux, très remarqués, mais véritablement exceptionnels.
+                                </seg>
+
+                                <desc>
+                                   Ferdinand de Saussure dice che l'agente psicologico e quello meccanico agiscono in modo indipendente l'uno dall'altro.
+                                </desc>
+                            </item>    
+
+                            <!--PERICOPE 6-->
+                            <item n="6" corresp="#pericope6">
+                                <seg>
+                                   Le facteur que nous avons jusqu’à présent systématiquement omis est celui de l’espace, de la distance géographique, venant se combiner avec la distance chronologique.
+                                </seg>
+
+                                <desc>
+                                   Ferdinand de Saussure introduce il fattore dello spazio.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 7-->
+                            <item n="7" corresp="#pericope7">
+                                <seg>
+                                   Nous avons constaté que, étant donné un certain état de langue quelconque, en un point déterminé, par exemple en un village retiré des Alpes, si on repasse au même endroit cent ou deux cents ans après, cet état de langue a inévitablement changé, dans quelque mesure, même en l’absence de toutes causes particulières pouvant favoriser le changement.
+                                </seg>
+
+                                <desc>
+                                   Ferdinand de Saussure ribadisce che la lingua cambia anche nello stesso luogo col passare del tempo.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 8-->
+                            <item n="8" corresp="#pericope8">
+                                <seg>
+                                   Le changement survenu sera du reste réductible à un certain nombre de phénomènes précis.
+                                </seg>
+
+                                <desc>
+                                   Ferdinand de Saussure dice il cambiamento della lingua è determinato da fattori precisi.
+                                </desc>
+                            </item>
+
+                            <!--PERICOPE 9-->
+                            <item n="9" corresp="#pericope9">
+                                <seg>
+                                   Mais il reste à constater que, si une même langue est répandue à un moment donné sur une certaine étendue de territoire, le résultat de
+                                </seg>
+
+                                <desc>
+                                   Ferdinand de Saussure dice che la lingua di un territorio muta in modo diverso nelle varie zone del territorio.
+                                </desc>
+                            </item>    
+                        </list>
+                    </ab>
+                </segmentation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <facsimile>
+        <!--CARTA 8-->
+        <surface>
+            <graphic url='ms_fr_03951_01_3_f009v_008.jpg' xml:id="pag8" width='1000px' height='800px' />
+
+            <zone ulx="502" uly="36" lrx="980" lry="758" xml:id="fullPage8"/>
+            
+            <zone ulx="528" uly="44" lrx="590" lry="95" xml:id="p8Num"/>
+            
+            <zone ulx="592" uly="40" lrx="955" lry="98" xml:id="p8R1"/>
+            <zone ulx="591" uly="97" lrx="952" lry="126" xml:id="p8R2"/>
+            <zone ulx="590" uly="127" lrx="956" lry="154" xml:id="p8R3"/>
+            <zone ulx="591" uly="154" lrx="960" lry="181" xml:id="p8R4"/>
+            <zone ulx="595" uly="187" lrx="942" lry="210" xml:id="p8R5"/>
+            <zone ulx="500" uly="214" lrx="952" lry="245" xml:id="p8R6"/>
+            <zone ulx="509" uly="246" lrx="959" lry="271" xml:id="p8R7"/>
+            <zone ulx="585" uly="273" lrx="952" lry="295" xml:id="p8R8"/>
+            <zone ulx="587" uly="297" lrx="965" lry="323" xml:id="p8R9"/>
+            <zone ulx="578" uly="326" lrx="971" lry="353" xml:id="p8R10"/>
+            <zone ulx="586" uly="356" lrx="957" lry="382" xml:id="p8R11"/>
+            <zone ulx="590" uly="380" lrx="950" lry="405" xml:id="p8R12"/>
+            <zone ulx="510" uly="407" lrx="968" lry="441" xml:id="p8R13"/>
+            <zone ulx="642" uly="438" lrx="963" lry="478" xml:id="p8R14"/>
+            <zone ulx="598" uly="466" lrx="960" lry="501" xml:id="p8R15"/>
+            <zone ulx="602" uly="497" lrx="971" lry="527" xml:id="p8R16"/>
+            <zone ulx="599" uly="531" lrx="969" lry="551" xml:id="p8R17"/>
+            <zone ulx="589" uly="554" lrx="968" lry="578" xml:id="p8R18"/>
+            <zone ulx="596" uly="583" lrx="967" lry="609" xml:id="p8R19"/>
+            <zone ulx="593" uly="611" lrx="968" lry="631" xml:id="p8R20"/>
+            <zone ulx="600" uly="638" lrx="974" lry="659" xml:id="p8R21"/>
+            <zone ulx="507" uly="667" lrx="980" lry="696" xml:id="p8R22"/>
+            <zone ulx="601" uly="694" lrx="976" lry="719" xml:id="p8R23"/>
+            <zone ulx="599" uly="723" lrx="980" lry="753" xml:id="p8R24"/>
+
+            <zone points = '585,72 790,65 810,40 959,38 968,319 781,327 784,351 587,360 584,285 498,289 496,214 585,211' xml:id="peric1" corresp="#pericope1 #pericope1_ita"/>
+            <zone points = '781,323 969,319 974,435 506,453 507,414 590,411 588,359 781,351' xml:id="peric2" corresp="#pericope2 #pericope2_ita"/>
+            <zone points = '644,441 972,437 975,550 834,553 835,580 600,587 597,477 643,475' xml:id="peric3" corresp="#pericope3 #pericope3_ita"/>
+            <zone points = '833,550 976,550 979,751 600,761 600,705 507,706 508,673 598,672 598,585 835,577' xml:id="peric4a" corresp="#pericope4 #pericope4_ita"/>
+        </surface>
+
+
+        <!--CARTA NOVE-->
+        <surface>
+            <graphic url="ms_fr_03951_01_3_f008v_009.jpg" xml:id="pag9" width='1000px' height='800px'/>
+
+            <zone ulx="497" uly="41" lrx="975" lry="766" xml:id="fullPage9"/>
+
+            <zone ulx="533" uly="45" lrx="621" lry="104" xml:id="p9Num"/>
+
+            <zone ulx="629" uly="61" lrx="952" lry="95" xml:id="p9R1"/>
+            <zone ulx="614" uly="88" lrx="947" lry="126" xml:id="p9R2"/>
+            <zone ulx="611" uly="117" lrx="957" lry="144" xml:id="p9R3"/>
+            <zone ulx="608" uly="146" lrx="953" lry="168" xml:id="p9R4"/>
+            <zone ulx="615" uly="166" lrx="944" lry="192" xml:id="p9R5"/>
+            <zone ulx="614" uly="189" lrx="928" lry="220" xml:id="p9R6"/>
+            <zone ulx="616" uly="215" lrx="872" lry="235" xml:id="p9R7"/>
+            <zone ulx="657" uly="241" lrx="975" lry="281" xml:id="p9R8"/>
+            <zone ulx="600" uly="270" lrx="957" lry="308" xml:id="p9R9"/>
+            <zone ulx="611" uly="306" lrx="955" lry="338" xml:id="p9R10"/>
+            <zone ulx="610" uly="336" lrx="968" lry="366" xml:id="p9R11"/>
+            <zone ulx="610" uly="369" lrx="843" lry="393" xml:id="p9R12"/>
+            <zone ulx="650" uly="401" lrx="956" lry="433" xml:id="p9R13"/>
+            <zone ulx="608" uly="424" lrx="963" lry="457" xml:id="p9R14"/>
+            <zone ulx="600" uly="452" lrx="949" lry="487" xml:id="p9R15"/>
+            <zone ulx="499" uly="479" lrx="958" lry="521" xml:id="p9R16"/>
+            <zone ulx="607" uly="512" lrx="957" lry="539" xml:id="p9R17"/>
+            <zone ulx="604" uly="541" lrx="966" lry="568" xml:id="p9R18"/>
+            <zone ulx="507" uly="565" lrx="969" lry="599" xml:id="p9R19"/>
+            <zone ulx="599" uly="592" lrx="958" lry="619" xml:id="p9R20"/>
+            <zone ulx="605" uly="614" lrx="966" lry="642" xml:id="p9R21"/>
+            <zone points = '512,635 640,638 583,735 517,736' xml:id="p9R21a"/>
+            <zone ulx="649" uly="643" lrx="946" lry="672" xml:id="p9R22"/>
+            <zone ulx="609" uly="675" lrx="949" lry="694" xml:id="p9R23"/>
+            <zone ulx="607" uly="700" lrx="955" lry="726" xml:id="p9R24"/>
+            <zone ulx="600" uly="723" lrx="971" lry="751" xml:id="p9R25"/>
+
+            <zone points = '635,67 947,64 949,90 913,89 915,123 614,122 613,95 635,95' xml:id="peric4b" corresp="#pericope4 #pericope4_ita"/>
+            <zone points = '611,119 951,119 953,186 929,186 928,218 876,219 876,235 613,243' xml:id="peric5" corresp="#pericope5 #pericope5_ita"/>
+            <zone points = '651,244 971,243 972,361 842,363 843,397 603,404 597,277 652,278' xml:id="peric6" corresp="#pericope6 #pericope6_ita"/>
+            <zone points = '643,398 966,400 969,614 897,614 897,639 606,643 605,602 504,603 504,568 602,568 606,509 529,541 497,509 496,480 600,479 602,429 643,430' xml:id="peric7" corresp="#pericope7 #pericope7_ita"/>
+            <zone points = '897,610 968,612 969,647 640,650 581,739 519,739 515,641 897,637' xml:id="peric8" corresp="#pericope8 #pericope8_ita"/>
+            <zone points = '647,644 942,641 972,750 605,750 608,681 647,680' xml:id="peric9" corresp="#pericope9 #pericope9_ita"/>
+        </surface>
+    </facsimile>
+
+    <text>
+        <group>
+            <text xml:lang="fr" source="#Bouquet-Engler2002">
+                <body>
+                    <!--INIZIO CARTA 8-->
+                    <pb facs="#fullPage8"/>
+                    <fw type="pageNum" place="top left" facs="#p8Num" hand="#h1">8</fw>
+                    
+                    <!--Prima pericope-->
+                    <ab type="pericope" n="1" xml:id="pericope1" corresp="#pericope1_ita" hand="#h1" facs="#peric1" change="#CHG-1">
+                        <lb facs="#p8R1"/>
+                        <date when="1891-11-13">au moment même où <subst hand="#h1" change="#CHG-3"><del rend="overstrike">je</del><add place="above">j’ai l’honneur de vous</add></subst> parler</date>, je 
+                        <lb facs="#p8R2"/>
+                        suis persuadé, <subst hand="#h1" change="#CHG-3"><del rend="overstrike">et</del><add place="above">je suis à vrai dire</add></subst> <term ref="#absolument">absolument</term> certain<choice><sic>, que</sic><corr resp="#SB #RE"> que,</corr></choice> malgré 
+                        <lb facs="#p8R3"/>
+                        tout <add place="above" change="#CHG-3">ce que je disais</add>, la <term ref="#dénomination">dénomination</term> de <emph rend="underline"><lang>français</lang></emph> 
+                        <lb facs="#p8R4"/>
+                        et <emph rend="underline"><lang>latin</lang></emph> est <del rend="overstrike" change="#CHG-3"><gap  quantity="7" extent="7 chars" atLeast="6" atMost="9" unit="char" reason="illegible"/></del><add place="above" change="#CHG-3">infiniment</add> plus forte, <del rend="overstrike" change="#CHG-2"><gap quantity="5" extent="5 chars" atLeast="4" atMost="7" unit="char" reason="illegible"/>
+                        <lb facs="#p8R5"/>
+                        </del>restera toujours <add place="above" change="#CHG-3">ou longtemps</add> mille fois plus 
+                        <lb facs="#p8R6"/>
+                        <del rend="overstrike"><gap quantity="10" extent="10 chars" atLeast="8" atMost="13" unit="char" reason="illegible"/></del><add place="above left">puissante sur votre <term ref="#esprit">esprit</term></add> que toutes les <term ref="#instance">instances</term> auxquelles 
+                        <lb facs="#p8R7"/>
+                        <add place="left margin">je puis</add> <subst hand="#h1"><del rend="overstrike"><gap quantity="5" extent="5 chars" atLeast="4" atMost="8" unit="char" reason="illegible"/></del><add place="above">me</add></subst> livrer <del rend="overstrike"><gap quantity="1" extent="1 char" atLeast="1" atMost="2" unit="char" reason="illegible"/></del><add place="above">comme</add> <term ref="#linguiste">linguiste</term>, pour arriver 
+                        <lb facs="#p8R8"/>
+                        à faire crouler ce <term ref="#dualisme">dualisme</term> de 
+                        <lb facs="#p8R9"/>
+                        carton, qui nous obsède, sous le nom 
+                        <lb facs="#p8R10"/>
+                        de <emph rend="underline"><lang>français</lang></emph> et <emph rend="underline"><lang>latin</lang></emph>. 
+                    </ab>
+
+                    <!--Seconda pericope-->
+                    <ab type="pericope" n="2" xml:id="pericope2" corresp="#pericope2_ita" hand="#h1" facs="#peric2" change="#CHG-1">
+                        <date from="1891-11-13">Il y aura un jour</date> 
+                        <lb facs="#p8R11"/>
+                        un <term ref="#livre">livre</term> spécial et très intéressant à 
+                        <lb facs="#p8R12"/>
+                        écrire sur le <term ref="#rôle">rôle</term> du <emph rend="underline"><term ref="#mot">mot</term></emph> comme 
+                        <lb facs="#p8R13"/>
+                        <add place="left margin"><term ref="#principal">principal</term></add> perturbateur de la <term ref="#science-des-mots">science des mots</term>. 
+                    </ab>
+
+                    <!--Terza pericope-->
+                    <ab type="pericope" n="3" xml:id="pericope3" corresp="#pericope3_ita" hand="#h1" facs="#peric3" change="#CHG-1">
+                        <lb facs="#p8R14"/>
+                        L’ensemble des <term ref="#considération">considérations</term> 
+                        <lb facs="#p8R15"/>
+                        de ce genre se résument <choice><abbr>p<am>&#x02B3;</am></abbr><expan resp="#SB #RE">p<ex>our</ex></expan></choice> nous dans 
+                        <lb facs="#p8R16"/>
+                        le <term ref="#principe">principe <del rend="overstrike" change="#CHG-2">de <emph rend="underline">continuité</emph> de la langue</del>
+                        <lb facs="#p8R17"/>
+                        universel</term> de l’<term><emph rend="underline">absolue continuité</emph> 
+                        <lb facs="#p8R18"/>
+                        de la <term ref="#langue">langue</term> <choice><abbr>ds</abbr><expan resp="#SB #RE">d<ex>an</ex>s</expan></choice> le temps</term>. 
+                    </ab>
+
+                    <!--Quarta pericope: prima parte-->
+                    <ab type="pericope" n="4" xml:id="pericope4" corresp="#pericope4_ita" hand="#h1" facs="#peric4a #peric4b" change="#CHG-1">
+                        Avec ce <choice><abbr>1&#x1D49;&#x02B3;</abbr><expan resp="#SB #RE">premier</expan></choice> 
+                        <lb facs="#p8R19"/>
+                        <term ref="#principe">principe</term> venait se combiner le second, 
+                        <lb facs="#p8R20"/>
+                        de la <term><emph rend="underline">continuelle transformation de</emph> la 
+                        <lb facs="#p8R21"/>
+                        <term ref="#langue">langue</term> <choice><abbr>ds</abbr><expan resp="#SB #RE">d<ex>an</ex>s</expan></choice> le temps</term><choice><sic>;</sic><corr resp="#SB #RE">,</corr></choice> dépendant elle-même, 
+                        <lb facs="#p8R22"/>
+                        <add place="left margin">je le rappelle,</add> de <choice><abbr><num type="cardinal" value="2">2</num></abbr><expan resp="#SB #RE">deux</expan></choice> <term ref="#agent">agents distincts</term><choice><sic>:</sic><corr resp="#SB #RE">,</corr></choice> l’un <emph rend="underline"><term ref="#psychologique">psychologique</term></emph> 
+                        <lb facs="#p8R23"/>
+                        se concentrant sur <choice><sic>«l’</sic><corr resp="#SB #RE">l’«</corr></choice> <term>opération d’analogie</term> 
+                        <lb facs="#p8R24"/>
+                        », l’autre <del rend="overstrike">physi</del><emph rend="underline"><term ref="#mécanique">mécanique</term></emph>, <emph rend="underline"><term ref="#physiologique">physiologique</term></emph>, 
+                        
+                        <!--INIZIO CARTA 9-->
+                        <pb facs="#fullPage9"/>
+                        <fw type="pageNum" place="top left" facs="#p9Num" hand="#h1">9</fw>
+                        <lb facs="#p9R1"/>
+                        ayant son expression <choice><abbr>ds</abbr><expan resp="#SB #RE">d<ex>an</ex>s</expan></choice> les 
+                        <lb facs="#p9R2"/>
+                        <term ref="#changement">changements</term> <term ref="#phonétique">phonétiques</term>. 
+                    </ab>
+
+                    <!--Quinta pericope-->
+                    <ab type="pericope" n="5" xml:id="pericope5" corresp="#pericope5_ita" hand="#h1" facs="#peric5" change="#CHG-1">
+                        <lb facs="#p9R3"/>
+                        L’un agissant de plus d’une 
+                        <lb facs="#p9R4"/>
+                        manière parfaitement <term ref="#indépendante">indépendante</term> 
+                        <lb facs="#p9R5"/>
+                        <choice><sic>del’</sic><corr resp="#SB #RE">de l’</corr></choice>autre<choice><sic> - </sic><corr resp="#SB #RE">,</corr></choice> si ce n’est <choice><abbr>ds</abbr><expan resp="#SB #RE">d<ex>an</ex>s</expan></choice> quelques 
+                        <lb facs="#p9R6"/>
+                        cas très spéciaux,<del rend="overstrike" change="#CHG-2"><gap quantity="1" extent="1 char" atLeast="1" atMost="2" unit="char" reason="illegible"/></del> très remarqués, 
+                        <lb facs="#p9R7"/>
+                        mais véritablement exceptionnels.
+                    </ab>
+
+                    <!--Sesta pericope-->
+                    <ab type="pericope" n="6" xml:id="pericope6" corresp="#pericope6_ita" hand="#h1" facs="#peric6" change="#CHG-1">
+                        <lb facs="#p9R8"/>
+                        Le <term ref="#facteur">facteur</term> que <choice><abbr>n<am>&#x02E2;</am></abbr><expan resp="#SB #RE">n<ex>ous</ex></expan></choice> avons jusqu’à 
+                        <lb facs="#p9R9"/>
+                        présent <term ref="#systématiquement">systématiquement</term> omis<choice><sic>,</sic><corr resp="#SB #RE"></corr></choice> est 
+                        <lb facs="#p9R10"/>
+                        celui <choice><sic>del’</sic><corr resp="#SB #RE">de l’</corr></choice><emph rend="underline"><term ref="#espace">espace</term></emph>, <choice><sic>dela</sic><corr resp="#SB #RE">de la</corr></choice> <term ref="#distance">distance</term> 
+                        <lb facs="#p9R11"/>
+                        <emph rend="underline"><term ref="#géographique">géographique</term></emph>, venant se combiner avec 
+                        <lb facs="#p9R12"/>
+                        la <term ref="#distance">distance</term> <emph rend="underline"><term ref="#chronologique">chronologique</term></emph>. 
+                    </ab>
+
+                    <!--Settima pericope-->
+                    <ab type="pericope" n="7" xml:id="pericope7" corresp="#pericope7_ita" hand="#h1" facs="#peric7" change="#CHG-1">
+                        <lb facs="#p9R13"/>
+                        Nous avons constaté que, étant 
+                        <lb facs="#p9R14"/>
+                        donné un certain <term>état de <term ref="#langue">langue</term></term> 
+                        <lb facs="#p9R15"/>
+                        quelconque, en un <term>point déterminé</term>, 
+                        <lb facs="#p9R16"/>
+                        <add place="left margin" change="#CHG-3"><choice><abbr>p. ex.</abbr><expan resp="#SB #RE">par exemple</expan></choice> en un village retiré des <geogName>Alpes</geogName></add><choice><sic> - </sic><corr resp="#SB #RE">,</corr></choice> si on repasse au même endroit 
+                        <lb facs="#p9R17"/>
+                        <date><date><choice><abbr><num type="cardinal" value="100">100</num></abbr><expan resp="#SB #RE">cent</expan></choice> ou <choice><abbr><num type="cardinal" value="200">200</num></abbr><expan resp="#SB #RE" cert="high">deux cents</expan></choice> ans</date> <offset>après</offset></date>, cet <term>état 
+                        <lb facs="#p9R18"/>
+                        de <term ref="#langue">langue</term></term> a <term ref="#inévitablement">inévitablement</term> <term ref="#changer">changé</term>,<del rend="overstrike" change="#CHG-3">même</del> 
+                        <lb facs="#p9R19"/>
+                        <add place="left margin" change="#CHG-3"><choice><abbr>ds</abbr><expan resp="#SB #RE">d<ex>an</ex>s</expan></choice> quelque mesure, même</add> en l’<term ref="#absence">absence</term> de toutes <del rend="overstrike"><gap atLeast="10" atMost="16" unit="char" reason="illegible"/></del><add place="above"><term ref="#cause">causes</term></add> 
+                        <lb facs="#p9R20"/>
+                        <del rend="overstrike"><gap atLeast="5" atMost="7" unit="char" reason="illegible"/></del><term ref="#particulière">particulières</term> pouvant<del rend="overstrike"><gap quantity="7" extent="7 chars" atLeast="6" atMost="8" unit="char" reason="illegible"/></del> 
+                        <lb facs="#p9R21"/>
+                        favoriser <del rend="overstrike"><gap quantity="1" extent="1 char" atLeast="1" atMost="2" unit="char" reason="illegible"/></del>le <term ref="#changement">changement</term>. 
+                    </ab>
+
+                    <!--Ottava pericope-->
+                    <ab type="pericope" n="8" xml:id="pericope8" corresp="#pericope8_ita" hand="#h1" facs="#peric8" change="#CHG-3">
+                        <add facs="#p9R21 #p9R21a">Le <term ref="#changement">chan
+                        gement</term> survenu sera du reste <term ref="#réductible">réductible</term> à un certain nombre de <term ref="#phénomène">phénomènes</term> précis.</add> 
+                    </ab>
+
+                    <!--Nona pericope-->
+                    <ab type="pericope" n="9" xml:id="pericope9" corresp="#pericope9_ita" hand="#h1" facs="#peric9" change="#CHG-1">
+                        <lb facs="#p9R22"/>
+                        Mais il reste à constater que, si 
+                        <lb facs="#p9R23"/>
+                        une même <term ref="#langue">langue</term> est répandue <term>à 
+                        <lb facs="#p9R24"/>
+                        un moment donné</term> sur une certaine 
+                        <lb facs="#p9R25"/>
+                        étendue de <term ref="#territoire">territoire</term>, le <term ref="#résultat">résultat</term> <subst hand="#h1" change="#CHG-2"><del rend="overwrite"><gap quantity="2" extent="2 chars" atLeast="1" atMost="3" unit="char" reason="illegible"/></del><add>de</add></subst> 
+                    </ab>                    
+                </body>
+            </text>
+
+            <text xml:lang="it">
+                <body source="#Fadda2006" resp="#EF">
+                    <!--Prima pericope-->
+                    <ab type="pericope" n="1" xml:id="pericope1_ita" corresp="#pericope1" facs="#peric1">
+                        nel momento in cui ho l’onore di parlarvi, sono persuaso, sono a dire il vero assolutamente certo che, malgrado tutto ciò che ho detto, la denominazione di francese e latino è infinitamente più forte, resterà per sempre o assai a lungo più influente sulla vostra mente di tutte le istanze che potrò addurvi come linguista, per riuscire a far crollare questo dualismo di cartone, che ci opprime, sotto il nome di francese e latino.
+                    </ab>
+
+                    <!--Seconda pericope-->
+                    <ab type="pericope" n="2" xml:id="pericope2_ita" corresp="#pericope2" facs="#peric2">
+                        Ci sarà un giorno un libro speciale e molto interessante da scrivere sul ruolo della parola come principale perturbatore della scienza delle parole.
+                    </ab>
+
+                    <!--Terza pericope-->
+                    <ab type="pericope" n="3" xml:id="pericope3_ita" corresp="#pericope3" facs="#peric3">
+                        Tutto l’insieme delle considerazioni di questo genere si riassume per noi nel principio universale dell’assoluta continuità della lingua nel tempo.
+                    </ab>
+
+                    <!--Quarta pericope-->
+                    <ab type="pericope" n="4" xml:id="pericope4_ita" corresp="#pericope4" facs="#peric4a #peric4b">
+                        Con questo primo principio veniva a combinarsi il secondo, quello della continua trasformazione della lingua nel tempo, dipendente essa medesima, lo ricordo, da due agenti distinti, l’uno psicologico concentrantesi sulla “operazione d’analogia”, l’altro meccanico, fisiologico, che ha la sua espressione nei cambiamenti fonetici.
+                    </ab>
+
+                    <!--Quinta pericope-->
+                    <ab type="pericope" n="5" xml:id="pericope5_ita" corresp="#pericope5" facs="#peric5">
+                        E che agiscono, inoltre, l’uno in maniera indipendente dall’altro, fatti salvi alcuni casi molto speciali, assai ben definiti, ma davvero eccezionali.
+                    </ab>
+
+                    <!--Sesta pericope-->
+                    <ab type="pericope" n="6" xml:id="pericope6_ita" corresp="#pericope6" facs="#peric6">
+                        Il fattore che noi abbiamo finora sistematicamente omesso è quello dello spazio, della distanza geografica, che si viene a combinare con la distanza cronologica.
+                    </ab>
+
+                    <!--Settima pericope-->
+                    <ab type="pericope" n="7" xml:id="pericope7_ita" corresp="#pericope7" facs="#peric7">
+                        Abbiamo constatato che, dato un certo qualsiasi stato di lingua, in un punto determinato, per esempio in un villaggio romito delle Alpi, se si ripassa nello stesso luogo cento o duecent’anni dopo, questo stato di lingua è inevitabilmente cambiato, anche in assenza di ogni causa particolare che potesse favorire il cambiamento.
+                    </ab>
+
+                    <!--Ottava pericope-->
+                    <ab type="pericope" n="8" xml:id="pericope8_ita" corresp="#pericope8" facs="#peric8">
+                        Il cambiamento sopravvenuto sarà del resto riducibile a un certo numero di fenomeni precisi.
+                    </ab>
+
+                    <!--Nona pericope-->
+                    <ab type="pericope" n="9" xml:id="pericope9_ita" corresp="#pericope9" facs="#peric9">
+                        Ma resta da constatare che, se una stessa lingua è diffusa in un momento dato su una certa estensione di territorio, il risultato di 
+                    </ab>
+                </body>
+            </text>
+        </group>
+
+        <back>
+            <!-- Bibliografia -->
+            <listBibl>
+                <head>Bibliografia</head>
+
+                <bibl xml:id="Bouquet-Engler2002"> 
+                    <title>Écrits de linguistique générale</title>
+                    <author>
+                        <persName ref="#FdS">
+                            <forename>Ferdinand </forename> 
+                            <surname>de Saussure</surname>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName ref="#SB">
+                            <forename>Simon </forename>
+                            <surname>Bouquet</surname>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName ref="#RE">
+                            <forename>Rudolf </forename>
+                            <surname>Engler</surname>
+                        </persName>
+                    </author>
+                    <author>
+                        <persName ref="#AW">
+                            <forename>Antoinette </forename>
+                            <surname>Weil</surname>
+                        </persName>
+                    </author>
+                    <date when="2002">2002</date>
+                    <publisher>Gallimard</publisher>
+                    <pubPlace>Parigi</pubPlace>
+                    <citedRange unit="page" from="143" to="172">pp. 143-172</citedRange>
+                    <note>
+                        Per la trascrizione del manoscritto
+                    </note>
+                </bibl>
+
+                <bibl xml:id="Fadda2006">
+                    <title type="main">Lingua e mente sociale. </title>
+                    <title type="sub">Per una teoria delle istituzioni linguistiche a partire da Saussure e Mead</title>
+                    <author>
+                        <persName ref="#EF">
+                            <forename>Emanuele </forename>
+                            <surname>Fadda</surname>
+                        </persName>
+                    </author>
+                    <date when="2002">2006</date> 
+                    <publisher>Bonanno Editore</publisher>
+                    <pubPlace>Acireale - Roma</pubPlace>
+                    <idno type="ISBN">ISBN 887796276-3</idno>
+                    <citedRange unit="page" from="85" to="121">pp. 85-121</citedRange>
+                    <note>
+                        Per la traduzione dal francese all'italiano
+                    </note>
+                </bibl>
+            </listBibl>
+
+            <!-- Persone -->
+            <listPerson>
+                <head>Persone</head>
+                
+                <person xml:id="FdS" > 
+                    <persName role="author">
+                        <forename>Ferdinand</forename>
+                        <surname>de Saussure</surname>
+                    </persName>
+                    <occupation> linguistic </occupation>
+                    <sex>M</sex> 
+                </person>
+
+                <person xml:id="SB"> 
+                    <persName> 
+                        <forename>Simon</forename>
+                        <surname>Bouquet</surname>
+                    </persName>
+                    <sex>M</sex> 
+                </person>
+
+                <person xml:id="RE"> 
+                    <persName> 
+                        <forename>Rudolf</forename>
+                        <surname>Engler</surname>
+                    </persName>
+                    <sex>M</sex>
+                </person>
+
+                <person xml:id="EF"> 
+                    <persName> 
+                        <forename>Emanuele</forename>
+                        <surname>Fadda</surname>
+                    </persName>
+                    <sex>M</sex> 
+                </person>
+
+                <person xml:id="BdS"> 
+                    <persName> 
+                        <forename>Barbara</forename>
+                        <surname>de Simone</surname>
+                    </persName>
+                    <sex>F</sex> 
+                </person>
+            </listPerson>
+
+            <!-- Glossario -->
+            <list>
+                <head>Glossario</head>
+                  
+                <label>
+                    <term xml:lang="fr" xml:id="absolument">Absolument</term>
+                    <term ref="#absolument" xml:lang="it">Assolutamente</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#absolument" source="https://www.treccani.it/vocabolario/assolutamente/">
+                        In maniera assoluta, senza limitazioni o restrizioni: governare, regnare assolutamente. Più com., decisamente, necessariamente, in ogni modo (soprattutto per dare tono perentorio alla frase, per indicare urgenza): mi oppongo a.; voglio a. così; non intendo a. recedere dal mio proposito; bisogna a. consegnare il lavoro entro domani.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="dénomination">Dénomination</term>
+                    <term ref="#dénomination" xml:lang="it">Denominazione</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#dénomination" source="https://www.treccani.it/vocabolario/denominazione">
+                        Il denominare, l’essere denominato; più spesso, il nome stesso con cui una persona o una cosa viene indicata.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="esprit">Esprit</term>
+                    <term ref="#esprit" xml:lang="it">Spirito</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#esprit" source="https://www.treccani.it/vocabolario/spirito">
+                        Con sign. più ristretto l’animo dell’uomo, inteso soprattutto come complesso delle facoltà psichiche, intellettuali e affettive.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="instance">Instance</term>
+                    <term ref="#instance" xml:lang="it">Istanza</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#instance" source="https://www.treccani.it/vocabolario/istanza">
+                        Nella filosofia scolastica, l’argomento con cui si insiste nel difendere una tesi da una sopraggiunta obiezione; il termine è passato poi a indicare, in generale, ogni argomento, o fatto, che si arrechi a prova o a confutazione di qualche argomento.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="linguiste">Linguiste</term>
+                    <term ref="#linguiste" xml:lang="it">Linguista</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#linguiste" source="https://www.treccani.it/vocabolario/linguista">
+                        Chi si dedica allo studio delle lingue.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="dualisme">Dualisme</term>
+                    <term ref="#dualisme" xml:lang="it">Dualismo</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#dualisme" source="https://www.treccani.it/vocabolario/dualismo">
+                        Presenza, in un’organizzazione o in una concezione, di due principî fondamentali cospiranti a un fine o contrastanti; anche, teoria che ammette la coesistenza di due principî distinti o opposti.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="livre">Livre</term>
+                    <term ref="#livre" xml:lang="it">Libro</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#livre" source="https://www.treccani.it/vocabolario/libro">
+                    Complesso di fogli della stessa misura, stampati o manoscritti, e cuciti insieme così da formare un volume, fornito di copertina o rilegato.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="rôle">Rôle</term>
+                    <term ref="#rôle" xml:lang="it">Ruolo</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#rôle" source="https://www.treccani.it/vocabolario/ruolo">
+                        La parte, la funzione, il peso di qualcuno o di qualcosa nell’attuarsi di un fatto o di una situazione.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="mot">Mot</term>
+                    <term ref="#mot" xml:lang="it">Parola</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#mot" source="https://www.treccani.it/vocabolario/parola">
+                        Intesa come unità isolabile nel discorso (nel qual caso è in genere sinon. di vocabolo), con riguardo alla sua natura, alla formazione e ad altri aspetti e qualità.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="principal">Principal</term>
+                    <term ref="#principal" xml:lang="it">Principale</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#principal" source="https://www.treccani.it/vocabolario/principale">
+                        Che ha maggior rilievo, maggiore importanza rispetto ad altre cose dello stesso genere.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="science-des-mots">Science des mots</term>
+                    <term ref="#science-des-mots" xml:lang="it">Scienza delle parole</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#science-des-mots" source="https://www.treccani.it/vocabolario/linguistica">
+                        Scienza che studia sistematicamente il linguaggio umano.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="considération">Considération</term>
+                    <term ref="#considération" xml:lang="it">Considerazione</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#considération" source="https://www.treccani.it/vocabolario/considerazione">
+                        Osservazione, riflessione.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="principe">Principe</term>
+                    <term ref="#principe" xml:lang="it">Principio</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#principe" source="https://www.treccani.it/vocabolario/principio">
+                        Concetto, affermazione, enunciato che forma uno dei fondamenti di una dottrina, di una scienza o di una disciplina, di un particolare sistema, o che, più semplicemente, sta alla base di un ragionamento, di una convinzione.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="agent">Agent</term>
+                    <term ref="#agent" xml:lang="it">Agente</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#agent" source="https://www.treccani.it/vocabolario/agente">
+                        Che agisce, che provoca un determinato effetto.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="psychologique">Psychologique</term>
+                    <term ref="#psychologique" xml:lang="it">Psicologico</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#psychologique" source="https://www.treccani.it/vocabolario/psicologico">
+                        Relativo alla psicologia, che riguarda o interessa la psicologia.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="mécanique">Mécanique</term>
+                    <term ref="#mécanique" xml:lang="it">Meccanico</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#mécanique" source="https://www.treccani.it/vocabolario/meccanico/">
+                        Riferito a fenomeni, processi, ecc., ne indica la natura meccanica e li distingue quindi da altri simili, ma di natura diversa.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="physiologique">Physiologique</term>
+                    <term ref="#physiologique" xml:lang="it">Fisiologico</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#physiologique" source="https://www.treccani.it/vocabolario/fisiologico">
+                        Relativo alla fisiologia come scienza che studia le funzioni organiche degli esseri viventi.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="changement">Changement</term>
+                    <term ref="#changement" xml:lang="it">Cambiamento</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#changement" source="https://www.treccani.it/vocabolario/cambiamento">
+                        Il cambiare, il cambiarsi.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="phonétique">Phonétique</term>
+                    <term ref="#phonétique" xml:lang="it">Fonetico</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#phonétique" source="https://www.treccani.it/vocabolario/fonetico">
+                        Che concerne la fonetica, in generale, o il fenomeno della fonazione, o i fonemi in partic. e il loro sistema.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="indépendante">Indépendante</term>
+                    <term ref="#indépendante" xml:lang="it">Indipendente</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#indépendante" source="https://www.treccani.it/vocabolario/indipendente">
+                        In generale, che non dipende, che non è soggetto o subordinato ad altre persone o ad altre cose.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="facteur">Facteur</term>
+                    <term ref="#facteur" xml:lang="it">Fattore</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#facteur" source="https://www.treccani.it/vocabolario/fattore">
+                        Elemento che concorre a produrre un determinato effetto o risultato.
+                    </gloss>
+                </item>
+                
+                <label>
+                    <term xml:lang="fr" xml:id="systématiquement">Systématiquement</term>
+                    <term ref="#systématiquement" xml:lang="it">Sistematicamente</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#systématiquement" source="https://www.treccani.it/vocabolario/sistematicamente_(Sinonimi-e-Contrari)">
+                        metodicamente, rigorosamente, scientificamente.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="espace">Espace</term>
+                    <term ref="#espace" xml:lang="it">Spazio</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#espace" source="https://www.treccani.it/vocabolario/spazio">
+                        Con valore assol., il luogo indefinito e illimitato in cui si pensano contenute tutte le cose materiali.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="distance">Distance</term>
+                    <term ref="#distance" xml:lang="it">Distanza</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#distance" source="https://www.treccani.it/vocabolario/distanza">
+                        La lunghezza del tratto di linea retta che congiunge due punti.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="géographique">Géographique</term>
+                    <term ref="#géographique" xml:lang="it">Geografico</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#géographique" source="https://www.treccani.it/vocabolario/geografico">
+                        Della geografia, pertinente alla geografia.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="chronologique">Chronologique</term>
+                    <term ref="#chronologique" xml:lang="it">Cronologico</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#chronologique" source="https://www.treccani.it/vocabolario/cronologico">
+                        Della cronologia, relativo alla cronologia, alla successione dei tempi.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="changer">Changer</term>
+                    <term ref="#changer" xml:lang="it">Cambiare</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#changer" source="https://www.treccani.it/vocabolario/cambiare">
+                        Sostituire una persona, una cosa, con altra simile o diversa.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="inévitablement">Inévitablement</term>
+                    <term ref="#inévitablement" xml:lang="it">Inevitabilmente</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#inévitablement" source="https://dizionari.repubblica.it/Italiano/I/inevitabilmente.html">
+                        Necessariamente, per forza.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="absence">Absence</term>
+                    <term ref="#absence" xml:lang="it">Assenza</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#absence" source="https://www.treccani.it/vocabolario/assenza">
+                        Di cose, mancanza.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="cause">Cause</term>
+                    <term ref="#cause" xml:lang="it">Causa</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#cause" source="https://www.treccani.it/vocabolario/causa">
+                        Fatto o avvenimento che provoca un determinato effetto, che è origine o occasione di un altro fatto.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="particulière">Particulière</term>
+                    <term ref="#particulière" xml:lang="it">Particolare</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#particulière" source="https://www.treccani.it/vocabolario/particolare">
+                        Che è proprio di un singolo individuo, di una singola cosa, o di una determinata categoria di individui, di cose, non comune quindi a tutti, alla totalità.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="réductible">Réductible</term>
+                    <term ref="#réductible" xml:lang="it">Riducibile</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#réductible" source="https://www.treccani.it/vocabolario/riducibile">
+                        Che si può ridurre, nel senso di ricondurre o di portare a una determinata condizione.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="phénomène">Phénomène</term>
+                    <term ref="#phénomène" xml:lang="it">Fenomeno</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#phénomène" source="https://www.treccani.it/vocabolario/fenomeno">
+                        Nel linguaggio scient., il termine è genericam. usato come sinon. di evento.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="langue">Langue</term>
+                    <term ref="#langue" xml:lang="it">Lingua</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#langue" source="https://www.treccani.it/vocabolario/lingua">
+                        Sistema di suoni articolati distintivi e significanti (fonemi), di elementi lessicali, cioè parole e locuzioni (lessemi e sintagmi), e di forme grammaticali (morfemi), accettato e usato da una comunità etnica, politica o culturale come mezzo di comunicazione per l’espressione e lo scambio di pensieri e sentimenti, con caratteri tali da costituire un organismo storicamente determinato, con proprie leggi fonetiche, morfologiche e sintattiche.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="territoire">Territoire</term>
+                    <term ref="#territoire" xml:lang="it">Territorio</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#territoire" source="https://www.treccani.it/vocabolario/territorio">
+                        Regione o zona geografica, porzione di terra o di terreno d’una certa estensione.
+                    </gloss>
+                </item>
+
+                <label>
+                    <term xml:lang="fr" xml:id="résultat">Résultat</term>
+                    <term ref="#résultat" xml:lang="it">Risultato</term>
+                </label>
+                <item>
+                    <gloss xml:lang="it" target="#résultat" source="https://www.treccani.it/vocabolario/risultato">
+                        Ciò che risulta come esito definitivo e conclusivo di un’azione, un’attività o un’operazione.
+                    </gloss>
+                </item>
+            </list>
+        </back>
+    </text>   
+</TEI>
